@@ -12,7 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "mongoose-unique-validator": "^3.0.0",
     "morgan": "^1.10.0",
     "static": "^0.4.7"
   },
